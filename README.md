@@ -9,7 +9,7 @@ Eugen, [@Gargron@mastodon.social](https://mastodon.social/@Gargron)
 
 ## Je ne comprends rien, il y a une introduction ?
 
-Il existe des documents créés par des utilisateurs comme [Welcome to Masotond par Aldarone](https://aldarone.fr/welcome-to-mastodon/)
+Il existe des documents créés par des utilisateurs comme [Welcome to Mastodon par Aldarone](https://aldarone.fr/welcome-to-mastodon/)
 
 # Fonctionnement des instances
 
