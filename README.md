@@ -13,6 +13,21 @@ Il existe des documents créés par des utilisateurs comme [Welcome to Masotond 
 
 # Fonctionnement des instances
 
+## Comment choisir son instance ?
+
+La liste des instances est disponible sur (https://instances.mastodon.xyz)
+
+Il est important de se renseigner sur plusieurs points avant de choisir celle sur laquelle créer son compte :
+
+  1.  **Le règlement**. Chaque instance à ses propres règles concernant les contenus autorisés et interdits, les consignes et comportement à adopter. Chaque instance devrait indiquer ces information dans une page prévue à cet effet, /about/more pour les instances mastodon.xyz, mastodon.social et mamot.fr par exemple ce sont respectivement (https://mastodon.xyz/about/more) (https://mastodon.social/about/more) (https://mamot.fr/about/more)
+
+  2.  **Les aspects techniques**. Sur la page des instances vous pouvez remarquer un taux d'uptime (la disponibilité), une note pour HTTPS (le chiffrement de la connexion), support d'IPv6 ou pas...
+
+  3.  **Les administrateurs**. Vous devez prendre conscience un administrateur sur une instance **PEUT** faire tout ce qu'il souhaite. Il ne le fera peut être pas mais il **PEUT** lire tous vos messages, même privés, obtenir votre adresse email... En créant un compte sur une instance vous devez faire confiance à son/ses administrateur(s)
+
+Je conseille de se connecter à une instance dont vous connaissez les admins et si vous avez une confiance aveugle en eux.
+Si vous ne connaissez pas d'admin vous pouvez aller chez (https://mamot.fr) l'instance de [La Quadrature du Net](https://laquadrature.net) une association de défense des droits et libertés des citoyens sur Internet, pour qui la vie privée est importante.
+
 ## Si je suis sur une instance, puis-je discuter avec des personnes sur une autre instance ?
 
 Oui. Les instances discutent entre elles pour que les utilisateurs de chaque instance puissent communiquer.
