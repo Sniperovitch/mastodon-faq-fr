@@ -1,5 +1,8 @@
 # mastodon-faq-fr
 
+La FAQ n'est pour le moment pas organisée, je jette ici les questions que l'on me pose fréquemment.
+
+
 ## Si je suis sur une instance, puis-je discuter avec des personnes sur une autre instance ?
 
 Oui. Les instances discutent entre elles pour que les utilisateurs de chaque instance puissent communiquer.
@@ -28,3 +31,7 @@ Pour Android il existe [Tusky sur Google PlayStore](https://play.google.com/stor
 ## C'est quoi le SILENCE ?
 
 Un administrateur peut poser un tag SILENCE sur un compte, ce compte ne sera lisible que par ses abonnés et ne sera pas visible dans les différentes timelines. Le SILENCE peut être aussi bien posé par l'administrateur de l'instance qui héberge le compte qu'un administrateur d'une autre instance.
+
+## Comment retrouver mes amis de Twitter ?
+Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à cette fin. Se connecter en utilisant votre compte Twitter et votre compte Mastodon, il listera vos amis de Twitter qui ont aussi utilisé le Mastodon Bridge.
+
