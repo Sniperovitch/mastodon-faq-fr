@@ -2,6 +2,11 @@
 
 La FAQ n'est pour le moment pas organisée, je jette ici les questions que l'on me pose fréquemment.
 
+# Mastodon lui même
+## Qui a créé Mastodon ?
+
+Eugen, [@Gargron@mastodon.social](https://mastodon.social/@Gargron)
+
 # Fonctionnement des instances
 
 ## Si je suis sur une instance, puis-je discuter avec des personnes sur une autre instance ?
