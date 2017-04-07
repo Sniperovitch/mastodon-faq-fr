@@ -7,6 +7,10 @@ La FAQ n'est pour le moment pas organisée, je jette ici les questions que l'on 
 
 Eugen, [@Gargron@mastodon.social](https://mastodon.social/@Gargron)
 
+## Je ne comprends rien, il y a une introduction ?
+
+Il existe des documents créés par des utilisateurs comme [Welcome to Masotond par Aldarone](https://aldarone.fr/welcome-to-mastodon/)
+
 # Fonctionnement des instances
 
 ## Si je suis sur une instance, puis-je discuter avec des personnes sur une autre instance ?
