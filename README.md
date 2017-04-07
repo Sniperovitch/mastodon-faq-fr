@@ -52,6 +52,10 @@ L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des i
 
 Non, ce principe n'existe pas contrairement à Twitter.
 
+## Comment exporter mes données ?
+
+Dans *Préférences > Data export* ou directement sur la page /settings/export de votre instance, par exemple pour mastodon.xyz c'est (https://mastodon.xyz/settings/export)
+
 # Se connecter à Mastodon
 
 ## Est-ce qu'il existe un client Mastodon sur smartphone ?
