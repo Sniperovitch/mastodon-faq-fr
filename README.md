@@ -91,3 +91,9 @@ Un administrateur peut poser un tag SILENCE sur un compte, ce compte ne sera lis
 ## Comment retrouver mes amis de Twitter ?
 Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à cette fin. Se connecter en utilisant votre compte Twitter et votre compte Mastodon, il listera vos amis de Twitter qui ont aussi utilisé le Mastodon Bridge.
 
+
+# Utilisation générale
+
+## Les timelines
+
+![Une explication des timelines](https://github.com/Sniperovitch/mastodon-faq-fr/blob/master/mastodon_timelines.png)
