@@ -73,10 +73,12 @@ Pour Android il existe [Tusky sur Google PlayStore](https://play.google.com/stor
 
 ## Avoir les colonnes qui prennent tout l'écran sur l'interface dans le navigateur
 
-Il existe un script pour avoir l'interface en plein écran (https://userstyles.org/styles/135697/mastodon-style-tweaks) à utiliser avec :
+Il existe un script pour avoir l'interface en plein écran (https://userstyles.org/styles/135697/mastodon-style-tweaks)
 
-[GreaseMonkey sur Firefox](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/)
-[JSBlocker sur Safari](http://jsblocker.toggleable.com)
+à utiliser avec :
+
+*  [GreaseMonkey sur Firefox](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/)
+*  [JSBlocker sur Safari](http://jsblocker.toggleable.com)
 
 # La modération
 
