@@ -57,6 +57,8 @@ L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des i
 
 Non, ce principe n'existe pas contrairement à Twitter.
 
+Néanmoins, certaines instances proposent ça en validant des comptes et en listant les noms dans la page /about/more
+
 ## Comment exporter mes données ?
 
 Dans *Préférences > Data export* ou directement sur la page /settings/export de votre instance, par exemple pour mastodon.xyz c'est (https://mastodon.xyz/settings/export)
