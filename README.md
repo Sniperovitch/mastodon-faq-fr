@@ -19,6 +19,8 @@ Il existe des documents créés par des utilisateurs comme
 
 La liste des instances est disponible sur (https://instances.mastodon.xyz)
 
+Des statistiques sont disponibles sur (http://sp3r4z.fr/mastodon/)
+
 Il est important de se renseigner sur plusieurs points avant de choisir celle sur laquelle créer son compte :
 1. **Le règlement**. Chaque instance à ses propres règles concernant les contenus autorisés et interdits, les consignes et comportement à adopter. Chaque instance devrait indiquer ces information dans une page prévue à cet effet, /about/more pour les instances mastodon.xyz, mastodon.social et mamot.fr par exemple ce sont respectivement (https://mastodon.xyz/about/more) (https://mastodon.social/about/more) (https://mamot.fr/about/more)
 
@@ -28,6 +30,7 @@ Il est important de se renseigner sur plusieurs points avant de choisir celle su
 
 Je conseille de se connecter à une instance dont vous connaissez les admins et si vous avez une confiance aveugle en eux.
 Si vous ne connaissez pas d'admin vous pouvez aller chez (https://mamot.fr) l'instance de [La Quadrature du Net](https://laquadrature.net) une association de défense des droits et libertés des citoyens sur Internet, pour qui la vie privée est importante.
+
 
 ## Si je suis sur une instance, puis-je discuter avec des personnes sur une autre instance ?
 
