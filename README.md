@@ -17,7 +17,7 @@ Il existe des documents créés par des utilisateurs comme
 
 ## Comment choisir son instance ?
 
-La liste des instances est disponible sur (https://instances.mastodon.xyz)
+La liste des instances est disponible sur (https://instances.mastodon.xyz) la version JSON existe aussi (https://instances.mastodon.xyz/instances.json)
 
 Des statistiques sont disponibles sur (http://sp3r4z.fr/mastodon/)
 
