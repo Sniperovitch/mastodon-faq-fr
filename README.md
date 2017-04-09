@@ -56,6 +56,21 @@ Il est possible d'exporter puis d'importer la liste de ses abonnements, pas les 
 ## Pourquoi ne puis-je pas m'inscrire sur certaines instances ?
 L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des instances privées ou publiques devenues fermées pour préserver les ressources sur l'instance.
 
+## Installer sa propre instance de Mastodon
+
+Si vous le désirez il est possible d'installer votre propre instance Mastodon sur votre serveur. Nous attirons votre attention sur plusieurs points avant de procéder à l'installation de celle-ci :
+
+* avoir suffisament de ressources CPU / RAM
+* un serveur stable
+* une adresse IP fixe
+
+En installant votre instance Mastodon prenez bien soin à la maintenir pour vous utilisateurs ainsi que pour vous-même. Nous regroupons ici diverses documentations :
+
+* [Un rôle ansible pour Mastodon](https://git.legeox.net/mastodon/ansible-role)
+* [Installer une instance Mastodon sous Debian 8](https://angristan.fr/installer-instance-mastodon-debian-8)
+* [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
+
+
 # Son compte 
 
 ## Peut-on certifier son compte ?
@@ -103,16 +118,3 @@ Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à ce
 
 ![Une explication des timelines](https://github.com/Sniperovitch/mastodon-faq-fr/blob/master/mastodon_timelines.png)
 
-# Installer sa propre instance de Mastodon
-
-Si vous le désirez il est possible d'installer votre propre instance Mastodon sur votre serveur. Nous attirons votre attention sur plusieurs points avant de procéder à l'installation de celle-ci :
-
-* avoir suffisament de ressources CPU / RAM
-* un serveur stable
-* une adresse IP fixe
-
-En installant votre instance Mastodon prenez bien soin à la maintenir pour vous utilisateurs ainsi que pour vous-même. Nous regroupons ici diverses documentations :
-
-* [Un rôle ansible pour Mastodon](https://git.legeox.net/mastodon/ansible-role)
-* [Installer une instance Mastodon sous Debian 8](https://angristan.fr/installer-instance-mastodon-debian-8)
-* [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
