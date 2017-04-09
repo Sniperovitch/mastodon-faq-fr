@@ -14,6 +14,7 @@ Il existe des documents créés par des utilisateurs comme :
 * [Mastodon qu'est-ce que c'est par @numendil@mastodon.xyz](http://pixellibre.net/2017/04/mastodon-quest-cest/)
 * [Débuter sur Mastodon : 9 questions pour tout comprendre au réseau social décentralisé (Numerama)](http://www.numerama.com/tech/246684-debuter-sur-mastodon-9-questions-pour-tout-comprendre-au-reseau-social-decentralise.html)
 * [Mastodon mais en fait comment ça marche ? (NextInpact)](https://www.nextinpact.com/news/103953-mastodon-mais-en-fait-comment-ca-marche.htm)
+* [Mastodon, le réseau social libre et décentralisé prêt à voler dans les plumes de Twitter (NextInpact)](https://www.nextinpact.com/news/103937-mastodon-reseau-social-libre-et-decentralise-pret-a-voler-dans-plumes-twitter.htm)
 
 # Fonctionnement des instances
 
