@@ -9,9 +9,10 @@ Eugen, [@Gargron@mastodon.social](https://mastodon.social/@Gargron)
 
 ## Je ne comprends rien, il y a une introduction ?
 
-Il existe des documents créés par des utilisateurs comme
+Il existe des documents créés par des utilisateurs comme : 
 * [Welcome to Mastodon par Aldarone](https://aldarone.fr/welcome-to-mastodon/)
 * [Mastodon qu'est-ce que c'est par @numendil@mastodon.xyz](http://pixellibre.net/2017/04/mastodon-quest-cest/)
+* [Débuter sur Mastodon : 9 questions pour tout comprendre au réseau social décentralisé](http://www.numerama.com/tech/246684-debuter-sur-mastodon-9-questions-pour-tout-comprendre-au-reseau-social-decentralise.html)
 
 # Fonctionnement des instances
 
@@ -97,3 +98,17 @@ Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à ce
 ## Les timelines
 
 ![Une explication des timelines](https://github.com/Sniperovitch/mastodon-faq-fr/blob/master/mastodon_timelines.png)
+
+# Installer sa propre instance de Mastodon
+
+Si vous le désirez il est possible d'installer votre propre instance Mastodon sur votre serveur. Nous attirons votre attention sur plusieurs points avant de procéder à l'installation de celle-ci :
+
+* avoir suffisament de ressources CPU / RAM
+* un serveur stable
+* une adresse IP fixe
+
+En installant votre instance Mastodon prenez bien soin à la maintenir pour vous utilisateurs ainsi que pour vous-même. Nous regroupons ici diverses documentations :
+
+* [Un rôle ansible pour Mastodon](https://git.legeox.net/mastodon/ansible-role)
+* [Installer une instance Mastodon sous Debian 8](https://angristan.fr/installer-instance-mastodon-debian-8)
+* [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
