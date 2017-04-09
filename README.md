@@ -7,6 +7,10 @@ La FAQ n'est pour le moment pas organisée, je jette ici les questions que l'on 
 
 Eugen, [@Gargron@mastodon.social](https://mastodon.social/@Gargron)
 
+## Le code source
+
+Celui-ci est disponible à l'adresse [https://github.com/tootsuite/mastodon](https://github.com/tootsuite/mastodon) et sous licence [AGPLv3.0](https://www.gnu.org/licenses/agpl-3.0.fr.html)
+
 ## Je ne comprends rien, il y a une introduction ?
 
 Il existe des documents créés par des utilisateurs comme : 
@@ -65,6 +69,30 @@ Néanmoins, certaines instances proposent ça en validant des comptes et en list
 Dans *Préférences > Data export* ou directement sur la page /settings/export de votre instance, par exemple pour mastodon.xyz c'est (https://mastodon.xyz/settings/export)
 
 # Se connecter à Mastodon
+
+## Utilisation de l'interface web Mastodon
+
+Une fois que vous avez créé un compte sur Mastodon vous avez alors la possibilité d'utiliser l'interface web de votre instance. L'interface web est assez ressemblante à **tweetdeck**. L'interface web est par défaut découpée en quatre colonnes :
+
+* écrire / répondre à un pouet
+* consulter votre timeline
+* consulter vos notifications
+* consulter les pouets de votre instance, des autres instances, vos préférences, vos favoris, les utilisateurs bloqués, de la documentation, vous déconnectez
+
+Pour écrire un pouet vous disposez ainsi de la première colonne de l'interface. Cela vous permet :
+
+* d'écrire un pouet contenant jusqu'à 500 caractères
+* d'y insérer des photos
+* de positionner la visibilité de votre message (public, non listé, privé, direct)
+* masquer le texte derrière un avertissement
+
+Une fois votre message prêt il suffit de cliquer sur le bouton **POUET!** et celui-ci sera transmis.
+
+Pour consulter les interactions de vos abonnements vous regarderez la colonne intitulée **Accueil**.
+
+Lorsque vous recevez une interaction dans la colonne **Notifications** cela concerne : pour un nouvel abonné, un pouet favorisé, une mention ou bien un partage.
+Pour répondre à un pouet il suffit de cliquer sur la flèche répondre et de compléter votre message dans la nouvelle fenêtre apparue.
+
 
 ## Est-ce qu'il existe un client Mastodon sur smartphone ?
 Oui.
