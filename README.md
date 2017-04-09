@@ -2,6 +2,7 @@
 
 La FAQ n'est pour le moment pas organisée, je jette ici les questions que l'on me pose fréquemment.
 
+___
 # Mastodon lui même
 ## Qui a créé Mastodon ?
 
@@ -18,6 +19,7 @@ Ou des articles dans la presse :
 * [Mastodon mais en fait comment ça marche ? (NextInpact)](https://www.nextinpact.com/news/103953-mastodon-mais-en-fait-comment-ca-marche.htm)
 * [Mastodon, le réseau social libre et décentralisé prêt à voler dans les plumes de Twitter (NextInpact)](https://www.nextinpact.com/news/103937-mastodon-reseau-social-libre-et-decentralise-pret-a-voler-dans-plumes-twitter.htm)
 
+___
 # Fonctionnement des instances
 
 ## Comment choisir son instance ?
@@ -71,6 +73,7 @@ En installant votre instance Mastodon prenez bien soin à la maintenir pour vous
 * [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
 
 
+___
 # Son compte 
 
 ## Peut-on certifier son compte ?
@@ -100,18 +103,21 @@ Il existe un script pour avoir l'interface en plein écran (https://userstyles.o
 *  [GreaseMonkey sur Firefox](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/)
 *  [JSBlocker sur Safari](http://jsblocker.toggleable.com)
 
+___
 # La modération
 
 ## C'est quoi le SILENCE ?
 
 Un administrateur peut poser un tag SILENCE sur un compte, ce compte ne sera lisible que par ses abonnés et ne sera pas visible dans les différentes timelines. Le SILENCE peut être aussi bien posé par l'administrateur de l'instance qui héberge le compte qu'un administrateur d'une autre instance.
 
+___
 # Je suis perdu(e)
 
 ## Comment retrouver mes amis de Twitter ?
 Le [Mastodon Bridge](https://mastodon-bridge.herokuapp.com) a été conçu à cette fin. Se connecter en utilisant votre compte Twitter et votre compte Mastodon, il listera vos amis de Twitter qui ont aussi utilisé le Mastodon Bridge.
 
 
+___
 # Utilisation générale
 
 ## Les timelines
