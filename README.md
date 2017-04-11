@@ -57,7 +57,7 @@ Réponse longue, la bonne pratique est de suivre ces étapes :
 2. Renommer son ancien compte pour y inclure le préfixe [MIGRE]
 3. Écrire un dernier toot sur l'ancien compte en indiquant la migration et en spécifiant le nouveau compte.
 
-Il est possible d'exporter puis d'importer la liste de ses abonnements, pas les abonnés ainsi que la liste des personnes bloquées.
+Il est possible d'exporter puis d'importer la liste de ses abonnements, pas les abonnés, ainsi que la liste des personnes bloquées.
 
 ## Pourquoi ne puis-je pas m'inscrire sur certaines instances ?
 L'administrateur de ces instances n'a pas ouvert les inscriptions, ce sont des instances privées ou publiques devenues fermées pour préserver les ressources sur l'instance.
