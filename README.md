@@ -76,7 +76,7 @@ En installant votre instance Mastodon prenez bien soin à la maintenir pour vous
 * [Installer une instance Mastodon sous Debian 8](https://angristan.fr/installer-instance-mastodon-debian-8)
 * [Running a Mastodon instance on Ubuntu 16.04 with Docker & nginx](https://github.com/ummjackson/mastodon-guide/blob/master/up-and-running.md)
 
-## Un article sur l'infrastructure de mastodon.social par le @Gargon le créateur de Mastodon.
+## Un article sur l'infrastructure de mastodon.social par [@Gargron le créateur de Mastodon](https://github.com/Sniperovitch/mastodon-faq-fr/blob/master/README.md#qui-a-créé-mastodon-).
 [Scaling Mastodon](https://medium.com/@Gargron/scaling-mastodon-1becde463090)
 
 ___
