@@ -82,11 +82,17 @@ En installant votre instance Mastodon prenez bien soin à la maintenir pour vous
 ___
 # Son compte 
 
-## Peut-on certifier son compte ?
+## Peut-on faire certifier son compte par Mastodon ?
 
 Non, ce principe n'existe pas contrairement à Twitter.
 
 Néanmoins, certaines instances proposent ça en validant des comptes et en listant les noms dans la page /about/more
+
+## Peut-on faire certifier son compte par Keybase ?
+
+Pour le moment non, pas directement, Keybase attend un peu avant d'inclure Mastodon.
+En revanche vous pouvez certifier vos messages et les lier, un article explique cela : (https://cdn.ampproject.org/c/s/ryanmaynard.co/mastodon-keybase)
+
 
 ## Comment exporter mes données ?
 
